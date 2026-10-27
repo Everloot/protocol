@@ -13,7 +13,7 @@ The shared contract between every Everloot part: what an upload may contain, wha
 
 - Upload record kinds and their limits
 - Public API response shapes, including the attribution block
-- MCP tool input and output schemas, as JSON Schema and TypeScript types (npm `@everloot/protocol`)
+- MCP tool input and output schemas, as JSON Schema and TypeScript types (to be published on npm as `@everloot/protocol`)
 
 ## Status
 
